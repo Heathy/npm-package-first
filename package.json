@@ -1,0 +1,15 @@
+{
+  "name": "@heathy-cli/test01",
+  "version": "1.0.0",
+  "description": "this is first one package by heathy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": "\u001b[A\u001b[B\u001b[3~\u001b",
+  "license": "ISC"
+}
