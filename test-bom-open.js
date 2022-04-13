@@ -300,3 +300,11 @@ navigator.geolocation.getCurrentPosition(console.log, console.log, {
  location.assign('http://www.baidu.com');
  location.replace('http://www.baidu.com');
  location.reload();
+ location.href;// https://juejin.cn/post/7072669600839630879  https://juejin.cn/search?query=%E4%BD%BF%E7%94%A8%E5%A3%B0%E5%8D%A1'
+ location.protocol; //https:
+ location.host;//juejin.cn
+ location.hostname;//juejin.cn
+ location.hash;// ""  #
+ location.username;
+ location.password;
+ location.origin; // https://juejin.cn
